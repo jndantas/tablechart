@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "axios": "^0.19.2",
-        "chart.js": "^2.9.3",
+        "chart.js": "^2.9.4",
         "laravel-vue-pagination": "^2.3.1",
         "sweetalert2": "^9.10.2",
         "vform": "^1.0.1",
